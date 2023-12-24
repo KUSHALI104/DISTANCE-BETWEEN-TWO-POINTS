@@ -8,6 +8,7 @@ To write a python program to find the distance two 2 points
 ### Step 3: Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: print the distance format to display the answer with two decimal points 
 ### Step 5: end the program
+
 ### PROGRAM:
   ```
 #Program to find the distance between two points.
